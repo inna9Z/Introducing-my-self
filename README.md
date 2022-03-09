@@ -2,7 +2,9 @@
 
 ## My name is Inna
 
-## I am Ukrainian , but now live in Brussels
+## I am Ukrainian  
+
+![Ukraine](https://st2.depositphotos.com/5060145/7635/v/450/depositphotos_76353691-stock-illustration-large-watercolor-heart-i-love.jpg?forcejpeg=true)
 
 ## Hobby
 
@@ -12,4 +14,4 @@
 
 ## A few words about me
 
-Funny , smart , beautiful
+Funny :smiley:, smart , beautiful :sparkles:
